@@ -168,7 +168,7 @@ h2 em { color: var(--gold); font-style: normal; }
 .social-card__meta { margin-top: 0.45rem; color: var(--white); font-size: 0.55rem; letter-spacing: 0.12em; text-transform: uppercase; }
 .social-card__arrow { position: absolute; right: 1.4rem; bottom: 1.35rem; color: var(--gold); font-size: 1.1rem; }
 
-.site-footer { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 2.2rem clamp(1.5rem, 11vw, 13rem); color: var(--white); background: var(--coffee); font-size: 0.55rem; letter-spacing: 0.18em; text-transform: uppercase; }
+.site-footer { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 2.2rem clamp(1.5rem, 11vw, 13rem); border-top: 1px solid var(--gold); color: var(--white); background: var(--black); font-size: 0.55rem; letter-spacing: 0.18em; text-transform: uppercase; }
 .footer-logo { width: 3.5rem; height: 3.5rem; object-fit: cover; display: block; }
 
 @media (max-width: 700px) {
